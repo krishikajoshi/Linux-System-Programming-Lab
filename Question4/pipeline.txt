@@ -1,0 +1,2 @@
+tail -f system.log | grep "ERROR" > error_report.txt 2>/dev/null
+
